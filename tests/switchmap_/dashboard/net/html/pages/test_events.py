@@ -132,8 +132,7 @@ class TestEventPage(unittest.TestCase):
               <div class="panel-body">
                 <table class="table">
 <tbody>
-<tr><td><a href="/switchmap/2">2023-03-13 23:09:07\
-</a></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td><a href="/switchmap/2">2023-03-13 23:09:07</a></td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
 </table>
               </div>
